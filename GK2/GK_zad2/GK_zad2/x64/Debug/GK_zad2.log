@@ -1,0 +1,7 @@
+﻿  GK_zad2.cpp
+c:\users\armek\desktop\grafika-komputerowa-master\gk2\gk_zad2\gk_zad2\gk_zad2.cpp(77): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\armek\desktop\grafika-komputerowa-master\gk2\gk_zad2\gk_zad2\gk_zad2.cpp(78): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\armek\desktop\grafika-komputerowa-master\gk2\gk_zad2\gk_zad2\gk_zad2.cpp(99): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\armek\desktop\grafika-komputerowa-master\gk2\gk_zad2\gk_zad2\gk_zad2.cpp(100): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+  GK_zad2.vcxproj -> C:\Users\Armek\Desktop\Grafika-Komputerowa-master\GK2\GK_zad2\x64\Debug\GK_zad2.exe
+  GK_zad2.vcxproj -> C:\Users\Armek\Desktop\Grafika-Komputerowa-master\GK2\GK_zad2\x64\Debug\GK_zad2.pdb (Partial PDB)

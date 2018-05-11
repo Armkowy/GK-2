@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  VectorMath.cpp
+d:\programy\programyvs2015\4 semestr\gkzaliczenie\gk2\gk_zad3\gk_zad3\vectormath.cpp(125): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  GK_zad3.cpp
+  Generating Code...
