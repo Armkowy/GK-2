@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  GK_zad2.cpp
+d:\programy\programyvs2015\4 semestr\gkzaliczenie\gk4\gk_zad2\gk_zad2\targa.h(6): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  d:\programy\programyvs2015\4 semestr\gkzaliczenie\gk4\gk_zad2\gk_zad2\targa.h(6): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+d:\programy\programyvs2015\4 semestr\gkzaliczenie\gk4\gk_zad2\gk_zad2\gk_zad2.cpp(253): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+d:\programy\programyvs2015\4 semestr\gkzaliczenie\gk4\gk_zad2\gk_zad2\gk_zad2.cpp(258): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+d:\programy\programyvs2015\4 semestr\gkzaliczenie\gk4\gk_zad2\gk_zad2\gk_zad2.cpp(288): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\programy\programyvs2015\4 semestr\gkzaliczenie\gk4\gk_zad2\gk_zad2\gk_zad2.cpp(290): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+  GK_zad2.vcxproj -> D:\Programy\ProgramyVS2015\4 semestr\GKzaliczenie\GK4\GK_zad2\Debug\GK_zad2.exe
+  GK_zad2.vcxproj -> D:\Programy\ProgramyVS2015\4 semestr\GKzaliczenie\GK4\GK_zad2\Debug\GK_zad2.pdb (Full PDB)

@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  GK_zad2.cpp
+d:\programy\programyvs2015\4 semestr\gkzaliczenie\gk3\gk_zad2\gk_zad2\gk_zad2.cpp(460): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+d:\programy\programyvs2015\4 semestr\gkzaliczenie\gk3\gk_zad2\gk_zad2\gk_zad2.cpp(465): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+d:\programy\programyvs2015\4 semestr\gkzaliczenie\gk3\gk_zad2\gk_zad2\gk_zad2.cpp(517): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\programy\programyvs2015\4 semestr\gkzaliczenie\gk3\gk_zad2\gk_zad2\gk_zad2.cpp(519): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\programy\programyvs2015\4 semestr\gkzaliczenie\gk3\gk_zad2\gk_zad2\gk_zad2.cpp(521): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\programy\programyvs2015\4 semestr\gkzaliczenie\gk3\gk_zad2\gk_zad2\gk_zad2.cpp(523): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  GK_zad2.vcxproj -> D:\Programy\ProgramyVS2015\4 semestr\GKzaliczenie\GK3\GK_zad2\Debug\GK_zad2.exe
+  GK_zad2.vcxproj -> D:\Programy\ProgramyVS2015\4 semestr\GKzaliczenie\GK3\GK_zad2\Debug\GK_zad2.pdb (Full PDB)

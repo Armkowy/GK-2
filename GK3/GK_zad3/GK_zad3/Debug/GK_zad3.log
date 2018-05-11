@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  targa.cpp
+  GK_zad3.cpp
+d:\programy\programyvs2015\4 semestr\gkzaliczenie\gk3\gk_zad3\gk_zad3\gk_zad3.cpp(6): fatal error C1083: Cannot open include file: 'GL/glext.h': No such file or directory
+  Generating Code...
