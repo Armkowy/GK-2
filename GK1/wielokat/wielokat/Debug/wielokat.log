@@ -1,0 +1,4 @@
+﻿  wielokat.cpp
+d:\programy\programyvs2015\4 semestr\gkzaliczenie\gk1\wielokat\wielokat\wielokat.cpp(41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  wielokat.vcxproj -> D:\Programy\ProgramyVS2015\4 semestr\GKzaliczenie\GK1\wielokat\Debug\wielokat.exe
+  wielokat.vcxproj -> D:\Programy\ProgramyVS2015\4 semestr\GKzaliczenie\GK1\wielokat\Debug\wielokat.pdb (Full PDB)

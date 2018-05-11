@@ -1,0 +1,4 @@
+﻿  wielokat.cpp
+c:\users\armek\desktop\grafika-komputerowa-master\gk1\wielokat\wielokat\wielokat.cpp(41): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+  wielokat.vcxproj -> C:\Users\Armek\Desktop\Grafika-Komputerowa-master\GK1\wielokat\x64\Debug\wielokat.exe
+  wielokat.vcxproj -> C:\Users\Armek\Desktop\Grafika-Komputerowa-master\GK1\wielokat\x64\Debug\wielokat.pdb (Partial PDB)
